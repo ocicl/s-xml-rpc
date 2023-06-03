@@ -1,0 +1,9 @@
+* s-xml-rpc
+
+S-XML-RPC is an implementation of XML-RPC in Common Lisp for both client and server.
+
+|---------+------------------------------------------------------|
+| source  | file:https://s-xml-rpc.common-lisp.dev/s-xml-rpc.tgz |
+| version | 7                                                    |
+| systems | s-xml-rpc                                            |
+|---------+------------------------------------------------------|
